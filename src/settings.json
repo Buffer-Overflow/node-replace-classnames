@@ -1,0 +1,11 @@
+{
+  "baseDir": "../../",
+  "inputFiles": [
+    "/app/**/*.html",
+    "/src/**/*.html",
+    "/test/**/*.html"
+  ],
+  "replaceOriginalFiles": true,
+  "write": true,
+  "debug": true,
+}

@@ -1,0 +1,16 @@
+{
+  "private": "true",
+  "devDependencies": {
+    "jsdom": "^7.0.1",
+    "jasmine-reporters": "0.2.1",
+    "karma-jasmine": "0.1.5",
+    "karma": "0.12.22",
+    "karma-chrome-launcher": "0.1.4",
+    "jasmine-core": "^2.3.4",
+    "jasmine-node-karma": "^1.3.1",
+    "glob": "^6.0.3"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}

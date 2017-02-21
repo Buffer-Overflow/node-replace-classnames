@@ -1,0 +1,10 @@
+{
+  "classNames": {
+    "container": "",
+    "panel-align--bottom": "panel-align-bottom",
+    "table-a": "table-variant-a",
+    "table-b": "table-variant-b",
+    "table-c": "table-variant-c",
+    "table-d": "table-variant-d",
+  }
+}
